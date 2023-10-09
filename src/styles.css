@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.block {
+  background: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.static {
+  background: blue;
+}
+.droppable-element {
+  height: 50px;
+  width: 250px;
+  background: skyblue;
+  margin: 10px;
+  border: 2px dashed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

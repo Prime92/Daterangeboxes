@@ -1,0 +1,34 @@
+{
+  "name": "react-responsive-grid",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "csbbust": "1.0.1",
+    "date-fns": "2.30.0",
+    "react": "16.12.0",
+    "react-date-range": "1.4.0",
+    "react-dom": "16.12.0",
+    "react-grid-layout": "0.18.3",
+    "react-icons": "4.11.0",
+    "react-modal": "3.16.1",
+    "react-scripts": "3.0.1",
+    "rsuite": "5.40.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
